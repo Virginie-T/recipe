@@ -1,0 +1,5 @@
+name = Recipe Support
+description = Extra settings for recipe content type
+package = Custom Modules
+core = 7.x
+files[] = recipe_support.module
